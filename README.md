@@ -1,5 +1,5 @@
-# Calendar
-Tkinter Calendar
+# Simple Tkinter Calendar
+
 import tkinter as ui
 import calendar
 
